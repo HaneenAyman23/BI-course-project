@@ -1,9 +1,6 @@
 # Retail Sales Performance Analysis
 ### Business Intelligence & Machine Learning Project
 
-**Haneen Ayman Mohamed** · Business Information Systems · Galala University · 2025  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/haneen-ayman-240051387)
-
 ---
 
 ## Project Overview
@@ -194,5 +191,5 @@ Retail-Sales-Analysis/
 4. Run the process
 
 ---
-
-*Haneen Ayman Mohamed · haneenayman23@outlook.com · Galala University, Suez, Egypt*
+Built by
+*Haneen Ayman Mohamed · haneenayman23@outlook.com*
